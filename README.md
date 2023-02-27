@@ -5,6 +5,9 @@
 - 🤟 Don't like rude people
 
 
+
+[![Heikay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heikay)](https://github.com/anuraghazra/github-readme-stats)
+![Heikay's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heikay&layout=compact&hide_border=true&langs_count=5)
 <!--
 ### some todo
 
